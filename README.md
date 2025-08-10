@@ -24,7 +24,7 @@ To create visualizations that convey a compelling business story using the Super
    - Used consistent colors, minimal clutter, and annotations for key insights.
 
 ## 📷 Screenshots
-![Dashboard Full](screenshots/dashboard_full.png)
+![Dashboard Full](screenshots/Dashboard_full.png)
 
 ## 📂 Files in this Repository
 - `dataset/Superstore.csv` → Original dataset used.
